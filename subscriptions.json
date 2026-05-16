@@ -1,0 +1,9 @@
+{
+  "admin": {
+    "plan": "starter",
+    "expires": null,
+    "active": true,
+    "purchased_at": "2026-05-06T12:55:07.833644",
+    "payment_status": "none"
+  }
+}
